@@ -7,7 +7,6 @@ h1{
   font-weight: 400;
 }
 body {
-  font-family: Arial, sans-serif;
   background-color: #f8f8f8;
   margin: 0;
   padding: 0;
@@ -19,7 +18,7 @@ header {
   padding: 20px 0;
 }
 .thank-you-content {
-  text-align: center;
+  text-align: start;
   margin: 20px auto;
   max-width: 600px;
   padding: 20px;
