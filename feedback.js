@@ -9,6 +9,6 @@ document.getElementById("submitButton").addEventListener("click", function(event
 
   if (name === "" || email === "" || message === "") {
     alert("Please fill in all required fields.");
-    event.preventDefault(); // Prevent the anchor tag from redirecting
+    event.preventDefault();
   }
 })
